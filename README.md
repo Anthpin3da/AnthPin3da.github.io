@@ -78,8 +78,8 @@
             <h2>Spiraled Bridge</h2>
             <p><strong>Project Rules:</strong> One wall must extend 100’, base must add up to 500 sq ft, and it must be a ¼ scale model.</p>
             <p>The Spiraled Bridge explores movement, connection, and fracture using curved, intersecting shapes. Inspired by water flow, its fragmented walls provide texture and depth while evoking tension and flow. Foam core was used to construct a visually light yet robust structure.</p>
-            <img src="Anthony_Pineda_Image_1.png" alt="Spiraled Bridge Image 1">
             <img src="Anthony_Pineda_Image_2.png" alt="Spiraled Bridge Image 2">
+            <img src="Anthony_Pineda_Image_3.png" alt="Spiraled Bridge Image 3">
         </div>
 
         <div class="project">
