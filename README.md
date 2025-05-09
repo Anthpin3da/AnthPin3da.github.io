@@ -69,7 +69,7 @@
 <body>
     <header>
         <h1>Anthony Pineda</h1>
-        <p>Architectural Portfolio 2025</p>
+        <p>Architectural Portfolio 2024-Present</p>
         <p>Fairfax, CA | anthpin3da@gmail.com | (415)-902-4065</p>
     </header>
 
