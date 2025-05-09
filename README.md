@@ -91,6 +91,10 @@
             <h2>Linear Courtyard</h2>
             <img src="Anthony_Pineda_Image_7.png" alt="Linear Courtyard Image 7">
             <img src="Anthony_Pineda_Image_8.png" alt="Linear Courtyard Image 8">
+             </div>
+
+        <div class="project">
+            <h2>Floor Plans</h2>
             <img src="Anthony_Pineda_Image_9.png" alt="Linear Courtyard Image 9">
         </div>
     </div>
