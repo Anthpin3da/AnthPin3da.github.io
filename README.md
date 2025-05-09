@@ -86,19 +86,18 @@
             <h2>Icarus’ Pavilion</h2>
             <p><strong>Parameters:</strong> 64’x64’ base, 10’ walls, ¼ scale model.</p>
             <p>This project investigates spatial relationships, height fluctuations, and geometric forms. The angular planes create zones and mobility, with vertical columns providing contrast. Light and shadow interact dynamically, emphasizing motion and energy.</p>
-            <img src="Anthony_Pineda_Image_3.png" alt="Icarus’ Pavilion Image 1">
-            <img src="Anthony_Pineda_Image_4.png" alt="Icarus’ Pavilion Image 2">
-            <img src="Anthony_Pineda_Image_5.png" alt="Icarus’ Pavilion Image 3">
+            <img src="Anthony_Pineda_Image_4.png" alt="Icarus’ Pavilion Image 4">
+            <img src="Anthony_Pineda_Image_5.png" alt="Icarus’ Pavilion Image 5">
+            <img src="Anthony_Pineda_Image_6.png" alt="Icarus’ Pavilion Image 6">
         </div>
 
         <div class="project">
             <h2>Linear Courtyard</h2>
             <p><strong>Parameters:</strong> 64’x64’ base, furrows 4’-0” on center, max height of 15’, linear elements only, ¼ scale model.</p>
             <p>The Linear Courtyard invites exploration with a roof that guides movement. Furrows promote relaxation, while the entrance's tall gates establish hierarchy and importance. The design offers a dynamic and meaningful journey.</p>
-            <img src="Anthony_Pineda_Image_6.png" alt="Linear Courtyard Image 1">
-            <img src="Anthony_Pineda_Image_7.png" alt="Linear Courtyard Image 2">
-            <img src="Anthony_Pineda_Image_8.png" alt="Linear Courtyard Image 3">
-            <img src="Anthony_Pineda_Image_9.png" alt="Linear Courtyard Image 4">
+            <img src="Anthony_Pineda_Image_7.png" alt="Linear Courtyard Image 7">
+            <img src="Anthony_Pineda_Image_8.png" alt="Linear Courtyard Image 8">
+            <img src="Anthony_Pineda_Image_9.png" alt="Linear Courtyard Image 9">
         </div>
     </div>
 
