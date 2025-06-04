@@ -72,6 +72,16 @@
         <p>Architectural Portfolio 2024-Present</p>
         <p>Fairfax, CA | anthpin3da@gmail.com | (415)-902-4065</p>
     </header>
+# Table of Contents
+
+| **Project**            | **Description**                                      |
+|------------------------|------------------------------------------------------|
+| [Spiraled Bridge](#spiraled-bridge)  | A dynamic bridge design emphasizing movement and organic flow. |
+| [Icarus’ Pavilion](#icarus-pavilion) | A structure inspired by themes of ambition and elevation. |
+| [Linear Courtyard](#linear-courtyard) | A geometric space focusing on spatial organization and interaction. |
+| [Floor Plans](#floor-plans)         | Detailed architectural layouts showcasing technical skills. |
+| [The Living Frame](#the-living-frame) | An architectural concept merging natural elements with built environments. |
+| [The Venus Trap](#the-venus-trap)    | An independent architectural concept exploring attraction and enclosure. |
 
     <div class="container">
         <div class="project">
