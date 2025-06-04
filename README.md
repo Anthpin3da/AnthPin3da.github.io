@@ -99,7 +99,7 @@
     
         <div class="project">
             <h2>The Living Frame</h2>
-            <img src="Screenshot 2025-06-03 191016.png" alt="Screenshot 2025-06-03 191016.png">
+            <img src="Screenshot 2025-06-03 205908.png" alt="Screenshot 2025-06-03 205908.png">
             <img src="Screenshot 2025-06-03 191023.png" alt="Screenshot 2025-06-03 191023.png">
         </div>
     <footer>
