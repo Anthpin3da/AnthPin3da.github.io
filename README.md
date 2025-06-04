@@ -105,8 +105,8 @@
         
          <div class="project">
             <h2>The Venus Trap</h2>
-            <img src="Screenshot 2025-06-03 234340.png" alt="Screenshot 2025-06-03 234340.png">
             <img src="Screenshot 2025-06-03 234325.png" alt="Screenshot 2025-06-03 234325.png">
+            <img src="Screenshot 2025-06-03 234340.png" alt="Screenshot 2025-06-03 234340.png">
         </div>
 
     <footer>
