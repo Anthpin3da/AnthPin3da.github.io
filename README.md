@@ -102,6 +102,13 @@
             <img src="Screenshot 2025-06-03 205908.png" alt="Screenshot 2025-06-03 205908.png">
             <img src="Screenshot 2025-06-03 191023.png" alt="Screenshot 2025-06-03 191023.png">
         </div>
+        
+         <div class="project">
+            <h2>The Venus Trap</h2>
+            <img src="Screenshot 2025-06-03 234340.png" alt="Screenshot 2025-06-03 234340.png">
+            <img src="Screenshot 2025-06-03 234325.png" alt="Screenshot 2025-06-03 234325.png">
+        </div>
+
     <footer>
         <p>&copy; 2025 Anthony Pineda. All rights reserved.</p>
     </footer>
