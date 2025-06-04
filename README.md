@@ -98,7 +98,12 @@
             <img src="Anthony_Pineda_Image_9.png" alt="Linear Courtyard Image 9">
         </div>
     </div>
-
+    
+        <div class="project">
+            <h2>The Living Frame </h2>
+            <img src="Screenshot 2025-06-03 191016.png"
+                        <img src="Screenshot 2025-06-03 191023.png"
+        </div>
     <footer>
         <p>&copy; 2025 Anthony Pineda. All rights reserved.</p>
     </footer>
