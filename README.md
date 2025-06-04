@@ -72,7 +72,18 @@
         <p>Architectural Portfolio 2024-Present</p>
         <p>Fairfax, CA | anthpin3da@gmail.com | (415)-902-4065</p>
     </header>
-    
+---
+
+### Table of Contents
+- [Spiraled Bridge](#spiraled-bridge)
+- [Icarus’ Pavilion](#icarus-pavilion)
+- [Linear Courtyard](#linear-courtyard)
+- [Floor Plans](#floor-plans)
+- [The Living Frame](#the-living-frame)
+- [The Venus Trap](#the-venus-trap)
+
+---
+
     <div class="container">
         <div class="project">
             <h2>Spiraled Bridge</h2>
